@@ -1,14 +1,4 @@
-🔹 Sprint 1 (Hafta 1-2): Proje Planlama & Veri Toplama
-🎯 Amaç: Proje hedeflerinin belirlenmesi, veri setinin seçilmesi ve proje yapısının oluşturulması
-👤 Sprint Lideri: 1. Kişi (Sadece takip ve değerlendirme yapar)
+🎓 Student Performance Prediction
+This project aims to analyze and predict student academic performance using data mining techniques. It includes steps such as data preprocessing, outlier detection, exploratory data analysis, and visualization.
 
-Görev Dağılımı:
-
-2. Kişi: Uygun veri setlerini araştırır ve karşılaştırmalı bir öneri sunar.
-
-3. Kişi: Seçilen veri setini indirir ve ön kontrolünü yapar (eksik kolon, veri tipi vs.).
-
-4. Kişi: Veri setinin kolonlarını inceler, anlamlı olanları belirler.
-
-5. Kişi: GitHub reposunu açar, klasör yapısını oluşturur. 
-
+The dataset contains information about students’ personal, social, and academic backgrounds. The project is structured into Python scripts and Jupyter notebooks to ensure modular, readable, and reproducible analysis.
